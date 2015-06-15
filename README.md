@@ -9,6 +9,7 @@
 2. プロジェクトのプロパティを開き、「codic」タブより、アクセストークンを設定し、ネーミングに使うプロジェクト辞書を選択します。アクセストークンは、codicにログイン後、APIステータスのページより取得できます。
 
 ### スクリーンショット
+![codic eclipse plugin](https://codic.jp/img/external/eclipse_plugins.png)
 
 ### 使い方
 1. 任意のエディタ上で Ctrl+D （または右クリック「codic」「クイックルック」）でネーミング生成します。

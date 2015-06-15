@@ -5,7 +5,8 @@
 ### インストール
 1. Eclipseを起動し、メニューの「ヘルプ」「新規ソフトウェアのインストール」で、以下のアップデートサイトからインストールします。
 
-`http://kenji-namba.github.io/codic-eclipse-plugin/updates`
+  `http://kenji-namba.github.io/codic-eclipse-plugin/updates`
+  
 2. プロジェクトのプロパティを開き、「codic」タブより、アクセストークンを設定し、ネーミングに使うプロジェクト辞書を選択します。アクセストークンは、codicにログイン後、APIステータスのページより取得できます。
 
 ### スクリーンショット

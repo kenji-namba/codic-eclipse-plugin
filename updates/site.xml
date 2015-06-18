@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/jp.codic.cep.feature_1.0.0.201506180451.jar" id="jp.codic.cep.feature" version="1.0.0.201506180451">
+   <feature url="features/jp.codic.cep.feature_1.0.0.201506181056.jar" id="jp.codic.cep.feature" version="1.0.0.201506181056">
       <category name="jp.codic"/>
    </feature>
    <category-def name="jp.codic" label="codic"/>

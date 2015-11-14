@@ -26,4 +26,4 @@
 - ケースオプションにハイフネーションを追加しました。
 
 ### その他
-バグなどがありましたら、Issueへ登録してください。
+バグなどがありましたら、[Issue](https://github.com/kenji-namba/codic-eclipse-plugin/issues)へ登録してください。

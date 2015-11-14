@@ -7,7 +7,7 @@
 
   `http://kenji-namba.github.io/codic-eclipse-plugin/updates`
   
-2. プロジェクトのプロパティを開き、「codic」タブより、アクセストークンを設定し、ネーミングに使うプロジェクト辞書を選択します。アクセストークンは、codicにログイン後、APIステータスのページより取得できます。
+2. プロジェクトのプロパティを開き、"codic" タブより、アクセストークンを設定し、ネーミングに使うプロジェクト辞書を選択します。アクセストークンは、[codic](https://codic.jp/)にログイン後、APIステータスのページより取得できます。
 
 ### スクリーンショット
 ![codic eclipse plugin](https://codic.jp/external/github/eclipse_plugins.png)
